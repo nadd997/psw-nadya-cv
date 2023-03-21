@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+h1 {
+    color: #343a40;
+}
+
+h2,
+h3 {
+    color: #343a40;
+}
+
+p {
+    color: #495057;
+}
+
+.section-hero {
+    padding: 200px 80px;
+}
+
+.hero-1 {
+    text-align: center;    
+}
+
+.profile {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    background-color: #495057;
+}
+
+.description {
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    display: flex;
+}
+
+.desc-text {
+    justify-content: center;
+    font-size: 24px;
+    font-family: Poppins;
+}
+
+.contact {
+    margin-top: 20px;
+}
+
+.contact-icon{
+    color: #495057;
+    font-size: 36px;
+    padding: 0px 10px;
+    display: inline-block;
+}
